@@ -30,8 +30,8 @@ O programa consiste em um sistema interno de uma startup para fazer o gerenciame
 
 1. Ultilize o comando 
 
-~~~C
-Esta é uma linha de código em c.
+~~~git
+git clone https://github.com/fabio-code-1/Projeto_Unip-C
 ~~~
 
 2. Abra a pasta bin/Debug/
