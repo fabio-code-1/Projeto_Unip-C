@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1667834892 source:c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"libconect.h"
+
+1666736856 c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\libconect.h
+
+1667757992 source:c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\libconect.c
+	"libconect.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1666706408 source:c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\teste.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1667758258 source:c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\connect_pim\libconect.c
+	"libconect.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1666736856 c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\connect_pim\libconect.h
+
+1667834890 source:c:\users\fabio\onedrive\햞ea de trabalho\connect_pim\connect_pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"libconect.h"
+

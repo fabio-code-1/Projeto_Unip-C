@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="301" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="libconect.c" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15689" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="76" />
+			<Collapse line="130" />
+			<Collapse line="241" />
+			<Collapse line="347" />
+			<Collapse line="455" />
+			<Collapse line="511" />
+			<Collapse line="615" />
+			<Collapse line="646" />
+			<Collapse line="652" />
+			<Collapse line="685" />
+		</Folding>
+	</File>
+	<File name="libconect.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="337" topLine="0" />
+		</Cursor>
+	</File>
+	<Target name="Debug" top="libconect.c">
+		<File name="main.c" />
+		<File name="libconect.c" />
+		<File name="libconect.h" />
+	</Target>
+</CodeBlocks_layout_file>
